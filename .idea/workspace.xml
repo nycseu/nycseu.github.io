@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-241">
-              <caret line="699" column="63" selection-start-line="699" selection-start-column="48" selection-end-line="699" selection-end-column="63" />
+            <state relative-caret-position="227">
+              <caret line="220" column="20" selection-start-line="220" selection-start-column="20" selection-end-line="220" selection-end-column="20" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -198,12 +198,12 @@
       <updated>1559300893300</updated>
       <workItem from="1559300895909" duration="3817000" />
       <workItem from="1559310955580" duration="6022000" />
-      <workItem from="1559444187595" duration="16966000" />
+      <workItem from="1559444187595" duration="17394000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26805000" />
+    <option name="totallyTimeSpent" value="27233000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="703" extended-state="6" />
@@ -265,8 +265,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-241">
-          <caret line="699" column="63" selection-start-line="699" selection-start-column="48" selection-end-line="699" selection-end-column="63" />
+        <state relative-caret-position="227">
+          <caret line="220" column="20" selection-start-line="220" selection-start-column="20" selection-end-line="220" selection-end-column="20" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
